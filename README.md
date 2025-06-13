@@ -1,4 +1,4 @@
-[Русский](/README.md) | [English](/README.en_En.md)
+[Русский](/README.md) | [English](/README.en_EN.md)
 
 # :snake: Whose python is longer
 
