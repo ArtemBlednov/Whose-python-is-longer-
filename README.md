@@ -1,5 +1,9 @@
 [Русский](/README.md) | [English](/README.en_EN.md)
 
+![GitHub Release](https://img.shields.io/github/v/release/ArtemBlednov/Whose-python-is-longer-?include_prereleases&sort=date&display_name=release&style=flat&color=rgb(119%2C%200%2C%20237))
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/ArtemBlednov/Whose-python-is-longer-/total?label=Downloads%20v1.1.0-beta&color=rgb(68%2C%200%2C%20255))
+![GitHub Repo stars](https://img.shields.io/github/stars/ArtemBlednov/Whose-python-is-longer-?style=flat&label=Stars&color=rgb(255%2C%20200%2C%200)&link=https%3A%2F%2Fgithub.com%2FArtemBlednov%2FWhose-python-is-longer-%2Fstargazers)
+
 # :snake: Whose python is longer
 
 ***
