@@ -31,3 +31,9 @@ pip install pygame
 ## 📦 Скачать
 
 [Скачать Whose pyton is longer (v1.0.0)](https://github.com/ArtemBlednov/Whose-python-is-longer-/releases/download/v1.1.0-beta/WhPyLong.exe)
+
+## Лицензия
+
+Проект распространяется под лицензией MIT — подробности в файле [LICENSE](LICENSE).
+
+
