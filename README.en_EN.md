@@ -31,6 +31,15 @@ pip install pygame
 
 [Download Whose python is longer (v1.0.0)](https://github.com/ArtemBlednov/Whose-python-is-longer-/releases/download/v1.1.0-beta/WhPyLong.exe)
 
+## 🧪 New Unstable Release
+
+> ⚠️ Warning: This version is under active development and may contain bugs and unfinished features.  
+> Use it only for testing and development purposes.
+
+[Download Whose python is longer (v1.9.0-alpha unstable)](https://github.com/ArtemBlednov/Whose-python-is-longer-/releases/download/v1.9.0-alpha/WhPyLong.unstable.exe)
+
+[Go to the unstable branch](https://github.com/ArtemBlednov/Whose-python-is-longer-/tree/unstable)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
